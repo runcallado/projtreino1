@@ -1,6 +1,6 @@
-.LOG
 Arquivo teste no GitHub linha 1
 Arquivo teste no GitHub linha 2
 Arquivo teste no GitHub linha 3
 Arquivo teste no GitHub linha 4
 
+Agora estou acrescentando mais essa linha 5
